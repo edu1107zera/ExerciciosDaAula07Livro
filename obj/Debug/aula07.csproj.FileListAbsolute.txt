@@ -1,0 +1,7 @@
+C:\Users\eduardo.lfuzato\source\repos\aula07\aula07\bin\Debug\aula07.exe.config
+C:\Users\eduardo.lfuzato\source\repos\aula07\aula07\bin\Debug\aula07.exe
+C:\Users\eduardo.lfuzato\source\repos\aula07\aula07\bin\Debug\aula07.pdb
+C:\Users\eduardo.lfuzato\source\repos\aula07\aula07\obj\Debug\aula07.csproj.AssemblyReference.cache
+C:\Users\eduardo.lfuzato\source\repos\aula07\aula07\obj\Debug\aula07.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.lfuzato\source\repos\aula07\aula07\obj\Debug\aula07.exe
+C:\Users\eduardo.lfuzato\source\repos\aula07\aula07\obj\Debug\aula07.pdb
